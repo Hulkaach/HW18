@@ -7,6 +7,5 @@ public class Main {
         duck.move();
         dog.walk();
         dog.move();
-
     }
 }

@@ -1,4 +1,5 @@
 public class Duck extends Animal {
+    @Override
     public void move() {
         System.out.println("Утка по кличке " + super.getName() + " летит в облаках");
     }
